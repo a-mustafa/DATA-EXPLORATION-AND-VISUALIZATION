@@ -18,8 +18,11 @@ Slides and material of my DATA EXPLORATION AND VISUALIZATION course at JUST
 - **Week : Mixed-Initiative Visual Exploration**
     - [Steerable, Progressive Multidimensional Scaling](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.134.6448&rep=rep1&type=pdf) (2004)
     - [Approximated and User Steerable tSNE for Progressive Visual Analytics](https://ieeexplore.ieee.org/document/7473883) (tnse, HB-tsne, A-tnse)
+    - [UMAP](https://pair-code.github.io/understanding-umap/)
+    - [LDA](https://www.analyticsvidhya.com/blog/2021/08/a-brief-introduction-to-linear-discriminant-analysis/)
     - [Supporting Analysis of Dimensionality Reduction Results with Contrastive Learning](https://arxiv.org/abs/1905.03911) (ccPCA)
-    - [Brushing Dimensions - A Dual Visual Analysis Model for High-Dimensional Data](https://openaccess.city.ac.uk/id/eprint/3616/1/07%20-%20turkayBrushingDimensions2011v2.pdf) (IEEE Trans)
+    -
+    - [Brushing Dimensions - A Dual Visual Analysis Model for High-Dimensional Data](https://openaccess.city.ac.uk/id/eprint/3616/1/07%20-%20turkayBrushingDimensions2011v2.pdf) (IEEE Trans '11)
     - [InterAxis: Steering Scatterplot Axes via Observation-Level Interaction](https://faculty.cc.gatech.edu/~aendert3/resources/kim-vast-2015.pdf) (IEEE Trans)
     - [Semantics of Directly Manipulating Spatializations](https://infovis.cs.vt.edu/sites/default/files/06634115.pdf) (IEEE Trans)
     - [PhenoLines: Phenotype Comparison Visualizations for Disease Subtyping via Topic Models*](https://ieeexplore.ieee.org/document/8019821)  (IEEE Trans '17)
@@ -27,7 +30,7 @@ Slides and material of my DATA EXPLORATION AND VISUALIZATION course at JUST
     - [Visual Neural Decomposition to Explain Multivariate Data Sets*](https://arxiv.org/abs/2009.05502)  (IEEE Trans '20)
     - [RegressionExplorer: Interactive Exploration of Logistic Regression Models with Subgroup Analysis*](https://ieeexplore.ieee.org/document/8464305)   (IEEE Trans '18)
     - [HierarchicalTopics: Visually Exploring Large Text Collections Using Topic Hierarchies*](https://ieeexplore.ieee.org/document/6634160) (IEEE Trans '13)
-
+    -
     - [A Visual Analytics Framework for Contrastive Network Analysis*](https://takanori-fujiwara.github.io/s/contrana/) (tool)
     - [iPCA](http://csit.udc.edu/~djeong/pdf/iPCA-fin.pdf) (tool)
     - [Visual Analytics for Topic Model Optimization based on User-Steerable Speculative Execution*](http://graphics.uni-konstanz.de/publikationen/ElAssady2019VisualAnalyticsTopic/visualanalyticstopic.pdf) 
