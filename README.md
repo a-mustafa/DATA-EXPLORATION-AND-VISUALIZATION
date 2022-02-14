@@ -10,6 +10,7 @@ Slides and material of my DATA EXPLORATION AND VISUALIZATION course at JUST
   - [The State of the Art in Integrating Machine Learning into Visual Analytics](https://arxiv.org/abs/1802.07954)
   - [The State-of-the-Art in Predictive Visual Analytic](https://graphics.cs.wisc.edu/Papers/2017/LGHGM17/star-pva-camera%20ready%20correction.pdf)
   - [Visual Analytics in Deep Learning: An Interrogative Survey for the Next Frontiers](https://ieeexplore.ieee.org/document/8371286)
+  - [Visualization for Machine Learning](https://media.neurips.cc/Conferences/NIPS2018/Slides/Visualization_for_ML.pdf)
 
 - **Week : Interactive Machine Learning**
     - [What you see is what you can change: Human-centered machine learning by interactive visualization](https://www.sciencedirect.com/science/article/abs/pii/S0925231217307609)
@@ -21,7 +22,10 @@ Slides and material of my DATA EXPLORATION AND VISUALIZATION course at JUST
     - [UMAP](https://pair-code.github.io/understanding-umap/)
     - [LDA](https://www.analyticsvidhya.com/blog/2021/08/a-brief-introduction-to-linear-discriminant-analysis/)
     - [Supporting Analysis of Dimensionality Reduction Results with Contrastive Learning](https://arxiv.org/abs/1905.03911) (ccPCA)
-    -
+    - [Deep Recursive Embedding for High-Dimensional Data](https://ieeexplore.ieee.org/document/9585419) (IEEE Trans'22)
+    - [KG4Vis: A Knowledge Graph-Based Approach for Visualization Recommendation](https://ieeexplore.ieee.org/document/9552844) (IEEE Trans'22)
+    
+  -Extra:
     - [Brushing Dimensions - A Dual Visual Analysis Model for High-Dimensional Data](https://openaccess.city.ac.uk/id/eprint/3616/1/07%20-%20turkayBrushingDimensions2011v2.pdf) (IEEE Trans '11)
     - [InterAxis: Steering Scatterplot Axes via Observation-Level Interaction](https://faculty.cc.gatech.edu/~aendert3/resources/kim-vast-2015.pdf) (IEEE Trans)
     - [Semantics of Directly Manipulating Spatializations](https://infovis.cs.vt.edu/sites/default/files/06634115.pdf) (IEEE Trans)
@@ -30,25 +34,28 @@ Slides and material of my DATA EXPLORATION AND VISUALIZATION course at JUST
     - [Visual Neural Decomposition to Explain Multivariate Data Sets*](https://arxiv.org/abs/2009.05502)  (IEEE Trans '20)
     - [RegressionExplorer: Interactive Exploration of Logistic Regression Models with Subgroup Analysis*](https://ieeexplore.ieee.org/document/8464305)   (IEEE Trans '18)
     - [HierarchicalTopics: Visually Exploring Large Text Collections Using Topic Hierarchies*](https://ieeexplore.ieee.org/document/6634160) (IEEE Trans '13)
-    -
+
+  -Extra:
     - [A Visual Analytics Framework for Contrastive Network Analysis*](https://takanori-fujiwara.github.io/s/contrana/) (tool)
     - [iPCA](http://csit.udc.edu/~djeong/pdf/iPCA-fin.pdf) (tool)
     - [Visual Analytics for Topic Model Optimization based on User-Steerable Speculative Execution*](http://graphics.uni-konstanz.de/publikationen/ElAssady2019VisualAnalyticsTopic/visualanalyticstopic.pdf) 
     - [Serendip: Topic Model-Driven Visual Exploration of Text Corpora](https://graphics.cs.wisc.edu/Papers/2014/AKVWG14/Preprint.pdf) (VAST '14)
     - [TopicPanorama: a Full Picture of Relevant Topics](http://www.shixialiu.com/publications/TopicPanorama_TVCG/paper.pdf) (VAST '14)
     - [ParallelTopics: A Probabilistic Approach to Exploring Document Collections](https://valt.cs.tufts.edu/pdf/dou2011parallel.pdf) (VAST '11)
+    - [COVID-view: Diagnosis of COVID-19 using Chest CT](https://ieeexplore.ieee.org/document/9552241) (IEEE Trans'22)
 
 
 
 - **Week : Visual Analytics for Model Understanding**
-    - [DeepTracker: Visualizing the Training Process of Convolutional Neural Networks](https://arxiv.org/abs/1808.08531)
-    - [Visualizing Dataflow Graphs of Deep Learning Models in TensorFlow](https://idl.cs.washington.edu/files/2018-TensorFlowGraph-VAST.pdf)
-    - [Visual Exploration of Semantic Relationships in Neural Word Embeddings](https://ieeexplore.ieee.org/document/8019864)
-    - [NLIZE: A Perturbation-Driven Visual Interrogation Tool for Analyzing and Interpreting Natural Language Inference Models](https://svivek.com/research/publications/liu2019nlize.pdf)
-    - [Visual Exploration of Semantic Relationships in Neural Word Embeddings](https://ieeexplore.ieee.org/document/8019864)
+    - [DeepTracker: Visualizing the Training Process of Convolutional Neural Networks](https://arxiv.org/abs/1808.08531) (ACM Trans '18)
+    - [Visualizing Dataflow Graphs of Deep Learning Models in TensorFlow](https://idl.cs.washington.edu/files/2018-TensorFlowGraph-VAST.pdf) (VAST'17 Best Paper - IEEE Trans)
+        -  https://kanitw.github.io/assets/tfgraph/tfgraph-slides.pdf 
+        -  https://www.cs.ubc.ca/~tmm/courses/547-17F/slides/halldor-tensorflow.pdf
+        -  Assignment: Weights and Biases
+    - [Visual Exploration of Semantic Relationships in Neural Word Embeddings](https://ieeexplore.ieee.org/document/8019864) (IEEE Trans'18)
+    - [NLIZE: A Perturbation-Driven Visual Interrogation Tool for Analyzing and Interpreting Natural Language..](https://ieeexplore.ieee.org/document/8454904) (IEEE Trans'18)
     - [Diagnosing Concept Drift with Visual Analytics*](https://arxiv.org/abs/2007.14372)
-    - 
-    - [AnchorViz: Facilitating Classifier Error Discovery through Interactive Semantic Data Exploration](https://www.microsoft.com/en-us/research/uploads/prod/2018/04/AnchorViz-camera-ready.pdf)
+    - [AnchorViz: Facilitating Classifier Error Discovery through Interactive Semantic Data Exploration](https://www.microsoft.com/en-us/research/uploads/prod/2018/04/AnchorViz-camera-ready.pdf) (ACM Tran'19)
 
 
 - **Week : Visual Analytics for Model Training**
