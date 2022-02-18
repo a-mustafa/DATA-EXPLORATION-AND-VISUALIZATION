@@ -59,9 +59,15 @@ Slides and material of my DATA EXPLORATION AND VISUALIZATION course at JUST
 
 
 - **Week : Visual Analytics for Model Training**
-    - [iVisClassifier: An Interactive Visual Analytics System for Classification Based on Supervised Dimension Reduction](https://faculty.cc.gatech.edu/~hpark/papers/choo_vast10_v1.pdf)
-    - [Visual Classifier Training for Text Document Retrieval](https://ieeexplore.ieee.org/document/6327290)
-    - [An Approach to Supporting Incremental Visual Data Classification](https://ieeexplore.ieee.org/document/6840370)
+    - [VisIRR: A Visual Analytics System for Information Retrieval and Recommendation for Large-Scale Document Data](https://dl.acm.org/doi/pdf/10.1145/3070616) (ACM TKDD'17)
+    - [iVisClassifier: An Interactive Visual Analytics System for Classification Based on Supervised Dimension Reduction](https://faculty.cc.gatech.edu/~hpark/papers/choo_vast10_v1.pdf) (IEEE VIS'20 10-Year Test-of-Time Award)
+    - [Visual Classifier Training for Text Document Retrieval](https://ieeexplore.ieee.org/document/6327290) (IEEE Trans'12)
+    - [Towards better analysis of machine learning models: A visual analytics perspective](https://www.sciencedirect.com/science/article/pii/S2468502X17300086) (Visual Informatics'17)
+    - [Manifold: A Model-Agnostic Framework for Interpretation and Diagnosis of Machine Learning Models](https://ieeexplore.ieee.org/abstract/document/8440091) (IEEE Trans'18)
+    - [An Approach to Supporting Incremental Visual Data Classification](https://ieeexplore.ieee.org/document/6840370) (IEEE Trans'15)
+    - [LDA Ensembles for Interactive Exploration and Categorization of Behaviors](https://ieeexplore.ieee.org/abstract/document/8663312) ( IEEE Trans '20)
+
+  -Extra:
     - [Inter-Active Learning of Ad-Hoc Classifiers for Video Visual Analytics](https://ieeexplore.ieee.org/document/6400492)
     - [ALTO: Active Learning with Topic Overviews for Speeding Label Induction and Document Labeling](https://aclanthology.org/P16-1110/)
     - [Closing the Loop: User-Centered Design and Evaluation of a Human-in-the-Loop Topic Modeling System](https://faculty.washington.edu/leahkf/pubs/IUI2018-ClosingTheLoopITM.pdf)
