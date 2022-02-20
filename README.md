@@ -1,5 +1,5 @@
 # DATA-EXPLORATION-AND-VISUALIZATION
-Slides and material of my DATA EXPLORATION AND VISUALIZATION course at JUST
+Material of my DATA EXPLORATION AND VISUALIZATION course at JUST
 
 
 
@@ -21,6 +21,7 @@ Slides and material of my DATA EXPLORATION AND VISUALIZATION course at JUST
     - [Approximated and User Steerable tSNE for Progressive Visual Analytics](https://ieeexplore.ieee.org/document/7473883) (tnse, HB-tsne, A-tnse)
     - [UMAP](https://pair-code.github.io/understanding-umap/)
     - [LDA](https://www.analyticsvidhya.com/blog/2021/08/a-brief-introduction-to-linear-discriminant-analysis/)
+    - [Locality Preserving Projections](https://proceedings.neurips.cc/paper/2003/file/d69116f8b0140cdeb1f99a4d5096ffe4-Paper.pdf)
     - [Supporting Analysis of Dimensionality Reduction Results with Contrastive Learning](https://arxiv.org/abs/1905.03911) (ccPCA)
     - [Deep Recursive Embedding for High-Dimensional Data](https://ieeexplore.ieee.org/document/9585419) (IEEE Trans'22)
     - [KG4Vis: A Knowledge Graph-Based Approach for Visualization Recommendation](https://ieeexplore.ieee.org/document/9552844) (IEEE Trans'22)
