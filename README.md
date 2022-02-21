@@ -2,9 +2,8 @@
 Material of my DATA EXPLORATION AND VISUALIZATION course at JUST
 
 
-
 # Topics Covered in this Course
-- **Week: Introduction**
+- **Introduction**
   - [WHICH VISUALIZATION?](https://experception.net/Franconeri_ExperCeptionDotNet_DataVisQuickRef.pdf) 
   - [A LAYERED GRAMMAR OF GRAPHICS](https://vita.had.co.nz/papers/layered-grammar.pdf)
   - [The State of the Art in Integrating Machine Learning into Visual Analytics](https://arxiv.org/abs/1802.07954)
@@ -12,11 +11,11 @@ Material of my DATA EXPLORATION AND VISUALIZATION course at JUST
   - [Visual Analytics in Deep Learning: An Interrogative Survey for the Next Frontiers](https://ieeexplore.ieee.org/document/8371286)
   - [Visualization for Machine Learning](https://media.neurips.cc/Conferences/NIPS2018/Slides/Visualization_for_ML.pdf)
 
-- **Week : Interactive Machine Learning**
+- **Interactive Machine Learning**
     - [What you see is what you can change: Human-centered machine learning by interactive visualization](https://www.sciencedirect.com/science/article/abs/pii/S0925231217307609)
     - [Power to the People: The Role of Humans in Interactive Machine Learning](https://ojs.aaai.org//index.php/aimagazine/article/view/2513)
 
-- **Week : Mixed-Initiative Visual Exploration**
+- **Mixed-Initiative Visual Exploration**
     - [Steerable, Progressive Multidimensional Scaling](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.134.6448&rep=rep1&type=pdf) (2004)
     - [Approximated and User Steerable tSNE for Progressive Visual Analytics](https://ieeexplore.ieee.org/document/7473883) (tnse, HB-tsne, A-tnse)
     - [UMAP](https://pair-code.github.io/understanding-umap/)
@@ -47,7 +46,7 @@ Material of my DATA EXPLORATION AND VISUALIZATION course at JUST
 
 
 
-- **Week : Visual Analytics for Model Understanding**
+- **Visual Analytics for Model Understanding**
     - [DeepTracker: Visualizing the Training Process of Convolutional Neural Networks](https://arxiv.org/abs/1808.08531) (ACM Trans '18)
     - [Visualizing Dataflow Graphs of Deep Learning Models in TensorFlow](https://idl.cs.washington.edu/files/2018-TensorFlowGraph-VAST.pdf) (VAST'17 Best Paper - IEEE Trans)
         -  https://kanitw.github.io/assets/tfgraph/tfgraph-slides.pdf 
@@ -59,7 +58,7 @@ Material of my DATA EXPLORATION AND VISUALIZATION course at JUST
     - [AnchorViz: Facilitating Classifier Error Discovery through Interactive Semantic Data Exploration](https://www.microsoft.com/en-us/research/uploads/prod/2018/04/AnchorViz-camera-ready.pdf) (ACM Tran'19)
 
 
-- **Week : Visual Analytics for Model Training**
+- **Visual Analytics for Model Training**
     - [VisIRR: A Visual Analytics System for Information Retrieval and Recommendation for Large-Scale Document Data](https://dl.acm.org/doi/pdf/10.1145/3070616) (ACM TKDD'17)
     - [iVisClassifier: An Interactive Visual Analytics System for Classification Based on Supervised Dimension Reduction](https://faculty.cc.gatech.edu/~hpark/papers/choo_vast10_v1.pdf) (IEEE VIS'20 10-Year Test-of-Time Award)
     - [Visual Classifier Training for Text Document Retrieval](https://ieeexplore.ieee.org/document/6327290) (IEEE Trans'12)
@@ -79,14 +78,12 @@ Material of my DATA EXPLORATION AND VISUALIZATION course at JUST
     - [Ablate, Variate, and Contemplate: Visual Analytics for Discovering Neural Architectures](https://arxiv.org/abs/1908.00387)
 
 
-- **Week : Learning for Vis**
-    - [Data2Vis: Automatic Generation of Data Visualizations Using Sequence to Sequence Recurrent Neural Networks](https://arxiv.org/abs/1804.03126)
-    - [Formalizing Visualization Design Knowledge as Constraints: Actionable and Extensible Models in Draco](https://ieeexplore.ieee.org/abstract/document/8440847)
-    - [GraphScape: A Model for Automated Reasoning about Visualization Similarity and Sequencing](http://idl.cs.washington.edu/files/2017-GraphScape-CHI.pdf)
+- **Learning for Vis**
+    - [Data2Vis: Automatic Generation of Data Visualizations Using Sequence to Sequence Recurrent Neural Networks](https://arxiv.org/abs/1804.03126) (IEEE VDS'18)
+    - [Formalizing Visualization Design Knowledge as Constraints: Actionable and Extensible Models in Draco](https://ieeexplore.ieee.org/abstract/document/8440847) (InfoVis Best Paper, 2018)
+    - [GraphScape: A Model for Automated Reasoning about Visualization Similarity and Sequencing](http://idl.cs.washington.edu/files/2017-GraphScape-CHI.pdf) 
     - [What Would a Graph Look Like in This Layout? A Machine Learning Approach to Large Graph Visualization](https://arxiv.org/abs/1710.04328)
     - [NL4DV: A Toolkit for Generating Analytic Specifications for Data Visualization from Natural Language Queries*](https://arxiv.org/abs/2008.10723)
 
 
-- **Week : PlaceHolder**
-    - []()
 
