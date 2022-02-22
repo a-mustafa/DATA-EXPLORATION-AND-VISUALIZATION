@@ -87,12 +87,12 @@ Material of DATA EXPLORATION AND VISUALIZATION course at JUST
     - [NL4DV: A Toolkit for Generating Analytic Specifications for Data Visualization from Natural Language Queries*](https://arxiv.org/abs/2008.10723)
 
 
-**Assessment:**
-Programming Assignments: 15%
-Term Paper: 20%
-Paper Presentation: 10%
-Class Participation: 5%
-Final Exam : 50%
+**Assessment:**  
+Programming Assignments: 15%  
+Term Paper: 20%  
+Paper Presentation: 10%  
+Class Participation: 5%  
+Final Exam : 50%  
 
 
 
