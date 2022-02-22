@@ -6,6 +6,7 @@ Material of DATA EXPLORATION AND VISUALIZATION course at JUST
 - **Introduction**
   - [WHICH VISUALIZATION?](https://experception.net/Franconeri_ExperCeptionDotNet_DataVisQuickRef.pdf) 
   - [A LAYERED GRAMMAR OF GRAPHICS](https://vita.had.co.nz/papers/layered-grammar.pdf)
+  - [Ways that Visualization Misleads](https://cu-visualab.org/papers/p26-szafir.pdf)
   - [The State of the Art in Integrating Machine Learning into Visual Analytics](https://arxiv.org/abs/1802.07954)
   - [The State-of-the-Art in Predictive Visual Analytic](https://graphics.cs.wisc.edu/Papers/2017/LGHGM17/star-pva-camera%20ready%20correction.pdf)
   - [Visual Analytics in Deep Learning: An Interrogative Survey for the Next Frontiers](https://ieeexplore.ieee.org/document/8371286)
@@ -84,6 +85,14 @@ Material of DATA EXPLORATION AND VISUALIZATION course at JUST
     - [GraphScape: A Model for Automated Reasoning about Visualization Similarity and Sequencing](http://idl.cs.washington.edu/files/2017-GraphScape-CHI.pdf) 
     - [What Would a Graph Look Like in This Layout? A Machine Learning Approach to Large Graph Visualization](https://arxiv.org/abs/1710.04328)
     - [NL4DV: A Toolkit for Generating Analytic Specifications for Data Visualization from Natural Language Queries*](https://arxiv.org/abs/2008.10723)
+
+
+**Assessment:**
+Programming Assignments: 15%
+Term Paper: 20%
+Paper Presentation: 10%
+Class Participation: 5%
+Final Exam : 50%
 
 
 
