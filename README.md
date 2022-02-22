@@ -1,5 +1,5 @@
 # DATA-EXPLORATION-AND-VISUALIZATION
-Material of my DATA EXPLORATION AND VISUALIZATION course at JUST
+Material of DATA EXPLORATION AND VISUALIZATION course at JUST
 
 
 # Topics Covered in this Course
